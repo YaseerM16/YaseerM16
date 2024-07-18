@@ -30,7 +30,7 @@
 
 ![Yaseer's Git Status](https://github-readme-stats.vercel.app/api?username=YaseerM16&show_icons=true&theme=radical&&hide=issues)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YaseerM16&show_icons=true&locale=en&layout=compact" alt="riyaz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YaseerM16&show_icons=true&locale=en&layout=compact" alt="Yaseer" /></p>
 
 [![Leetcode Status](https://leetcard.jacoblin.cool/IamYASEER?ext=contest&theme=dark)](https://leetcode.com/u/IamYASEER/)
 
