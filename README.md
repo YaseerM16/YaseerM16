@@ -28,10 +28,10 @@
 
 ---
 
-![Riyas's Git Status](https://github-readme-stats.vercel.app/api?username=YaseerM16&show_icons=true&theme=radical&&hide=issues)
+![Yaseer's Git Status](https://github-readme-stats.vercel.app/api?username=YaseerM16&show_icons=true&theme=radical&&hide=issues)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YaseerM16&show_icons=true&locale=en&layout=compact" alt="riyaz" /></p>
 
 [![Leetcode Status](https://leetcard.jacoblin.cool/IamYASEER?ext=contest&theme=dark)](https://leetcode.com/u/IamYASEER/)
 
-[![Riyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YaseerM16&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yaseer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YaseerM16&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
